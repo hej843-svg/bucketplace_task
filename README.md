@@ -153,7 +153,7 @@ pytest --log-cli-level=DEBUG
 ```
 
 ## 테스트 케이스
-- Git repo Asset의 Testcase 문서 참고
+- Testcase_doc folder의 문서 참고 (https://github.com/hej843-svg/bucketplace_task/blob/main/testcase_doc/OHOUS_TESTCASE_android_v.1.0.ods)
 
 ## 주요 기능
 
